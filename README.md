@@ -285,16 +285,16 @@
 <details>
   <summary><b>Admin Chat</b></summary>
   
-- Nowe kolory
+- Nowe koloryhttps://github.com/AMXX4u/4FUN/blob/main/assets/admin/admin_lime_say.png?raw=true
 
   <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/admin/admin_lime_say.png"></img>
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/admin/admin_pink_say.png"></img>
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/admin/admin_violet_say.png"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/admin/admin_pink_say.png?raw=true"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/admin/admin_violet_say.png?raw=true"></img>
 
 - Odświeżone informacje na czacie
 
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/admin/admin_chat_mplayer.png"></img>
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/admin/admin_chat_madmin.png"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/admin/admin_chat_mplayer.png?raw=true"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/admin/admin_chat_madmin.png?raw=true"></img>
 
 </details>
 
@@ -303,7 +303,7 @@
   
 - Menu
 
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/admin/ip.png"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/admin/ip.png?raw=true"></img>
 
 </details>
 
@@ -312,15 +312,15 @@
   
 - Opis VIP'a w MOTD.
 
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/vip/motd.png"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/vip/motd.png?raw=true"></img>
 
 - Menu wyboru broni.
 
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/vip/weapon.png"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/vip/weapon.png?raw=true"></img>
 
 - Informacja po wyborze broni
 
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/vip/chat.png"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/vip/chat.png?raw=true"></img>
 </details>
 
 <details>
@@ -328,15 +328,15 @@
   
 - Menu
 
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/money/register.png"></img>
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/money/main_menu.png"></img>
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/money/pay.png"></img>
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/money/withdraw.png"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/money/register.png?raw=true"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/money/main_menu.png?raw=true"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/money/pay.png?raw=true"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/money/withdraw.png?raw=true"></img>
   
 - Inforamcja na czacie
 
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/money/chat_1.png"></img>
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/money/chat_2.png"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/money/chat_1.png?raw=true"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/money/chat_2.png?raw=true"></img>
 </details>
 
 <details>
@@ -352,15 +352,15 @@
   
 - Menu główne
 
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/questy/main.png"></img>
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/bet/act_x.png"></img>
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/bet/questy_select.png"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/questy/main.pnge"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/questy/act_x.png"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/questy/quest_select.png"></img>
   
 - Informacje na czacie
 
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/bet/chat.png"></img>
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/bet/chat_0.png"></img>
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/bet/chat_2.png"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/questy/chat.png"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/questy/chat_0.png"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/questy/chat_2.png"></img>
 </details>
 
 <details>
@@ -409,7 +409,7 @@
   
 - Inforamcja na czacie
 
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/killsound/set_skin.png"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/skins/set_skin.png"></img>
 </details>
 
 <details>
@@ -452,7 +452,7 @@
   
 - Informacja na czacie
 
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/othe/kill_info.png"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/other/kill_info.png"></img>
 
 </details>
 
@@ -461,7 +461,7 @@
   
 - Menu
 
-  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/knife/main.png"></img>
+  <img src="https://github.com/AMXX4u/4FUN/blob/main/assets/knife/menu.png"></img>
   
 - Inforamcja na czacie
 
