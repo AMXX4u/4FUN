@@ -497,7 +497,10 @@
 </details>
 
 ### Requirements 
-- AMXModX 1.9 / AMXModX 1.10
-- ReHLDS 3.12.0.780
-- ReAPI 5.22.0.254
-- ReGameDLL 5.21.0.556
+> [!NOTE]  
+> Poniżej przedstawiamy Wam liste modułów wymaganych wraz z wersjami. Na tych wersjach pluginy były pisane, przerabiane.
+
+- AMXModX 1.10.0.5467
+- ReHLDS 3.13.0.788
+- ReAPI 5.24.0.300
+- ReGameDLL 5.26.0.668
